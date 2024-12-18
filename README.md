@@ -63,6 +63,3 @@ This notebook is part of the first assignment for the Deep Reinforcement Learnin
 
 **Happy Learning!**
 
---- 
-
-Let me know if you want to add anything else! 😊
